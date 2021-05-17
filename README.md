@@ -1,4 +1,4 @@
-# Learn to become a Software Developer
+# Learn to be a Software Developer
 
 This is a curated list of planning, courses and things that I've put together in order to help my friends who has zero or minimal IT background to become an entry-level Software Developer, Software Tester (QA) or Technical Support.
 
